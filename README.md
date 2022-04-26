@@ -1,6 +1,6 @@
 # webpack-config
-simple web pack config boilerplate 
-having this three support 
+simple web pack config boilerplate
+having these three support  
 <br>
    - [x] js bundler  
    - [x] plugin
@@ -9,9 +9,9 @@ having this three support
         - [x] webpackServer
 
 ## how to use 
-clone it or fork it and crate a project using this template 
+clone it or fork it and create a project using this template
 <br>
-1. re write the package.json file to reflect your project/ or do clear install by removing package.json but you have to keep on mind the dependencies 
+1. rewrite the package.json file to reflect your project/ or do a clean installation by removing package.json but you have to keep in mind the dependencies
 ```
 npm init -y 
 ```
@@ -34,7 +34,7 @@ npm run build:pro
 npm run start 
 ```
 
-The server should be up and runing at [localhost:8000](https://localhost:8000)
+The server should be up and running at [localhost:8000](https://localhost:8000)
 
 cheers :)
-
+don't chers 
